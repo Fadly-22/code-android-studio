@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">BacaManga2</string>
+    <string name="name_juduls">Judul Manga </string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+<string-array name="data_name">
+    <item>One punch man</item>
+    <item>Deamon king lost</item>
+    <item>Hitori bochi isekai</item>
+    <item>Tensei kenja no isekai</item>
+    <item>Yozakura Family</item>
+    <item>Oredake hairu kakushi dungeon</item>
+    <item>Shoukan sarete</item>
+    <item>Magic and muscle</item>
+    <item>Mushoku no eiyuu</item>
+    <item>Komi san</item>
+</string-array>
+
+    <string-array name="data_detail">
+     <item>Saitama dulunya hayalah lelaki baisa dalam dunia dimana pahlawan menjadi sebuah
+            pekrjaan tetapi ketika ia bertemua dengan seorang anak lelaki yang sedang diserang oleh monter dia mengingat keinginan masa
+            kecilnya untuk menjadi seorang pahlawan lalu dia pergi berlatih setiap hari hingga
+            semua rambutnya rontok saitama pun menjadi pahlawan yang kuat  tetapi adan satu hal yang mencemaskan dia yaitu dia menjadi
+            terlalu kuat hingga dapat mengalahkan musuhnya hanya dengan satu pukulan</item>
+
+        <item>Dia adalah raja dunia iblis yang nganggur Dan ada seseorang pahlawan pemberani
+            yang di pecat karena gagal dalam ekspidisi takdir mengikat mereka berdua sebagai
+            awal dari petualangan penuh misteri</item>
+
+        <item>Haruka yang menghabiskan hidupnya disekolah menengah sebagai penyendiri tiba-tiba
+            dipanggil kedunia lain pada hari itu bersama dengan semua teman sekelasnya dan</item>
+
+        <item>Sano yuji seorang kariyawan perusahaan di panggil kedunia lain saat sedang menyelesaikan
+            pekerjaannya di rumah perofesinya didunia lain adalah seorang monster tamer dianggap sebagai
+            pekerjaan yang membuatnya sulit untuk menjadi seorang petualang namun berkat beberapa monter
+            slime yang ia temui yang membaca beberapa buku sihir dia mendapatkan kekuatan magis</item>
+
+        <item>Taiyo asano adalah siswa sekolah  menengah yang sangat pemalu dan satu satunya orang yang bisa
+            dia ajak bicara adalah teman masakecilnya matsumi yozakura teryata matsumi adalah putri spy kyoichiro
+            langkah drastic apa yang harus di lakukan taiyo untuk menyelamatkan matsumi cerita romantic komedi keluarga
+            mata-mata dan misi di mulai</item>
+
+        <item>Anak ke 3 dari seorang bangsawan  miskin nore kehilangan pekerjaannya tapi ketika dia merenung apa
+            akan menjadi sebuah keberuntungan jiak ia menjadi seorang petualang sebuah dungeon tersembunyi
+            yang tidak ada yang tahu cara masuknya tempat penuh dengan hal-hal yang tersembunyi seperti binatang sihir
+            yang sangat langka alat sihir untuk mendapatkan kekuatan dan barang-barang yang langka di seluruh dunia</item>
+
+        <item>Mengisahkan seorang pria sma yang sedang asih bermain game VR dan didalam game itu sang MC kita ini menjadi
+            hero terkuat namun pada saat ia login dengan karakter sampingan dia yang ber level 1 tiba-tiba dia di panggail
+            kedunia lain oleh seorang putri setelah si putri tau bahwa level dia kecil sang MC di buang ke dunia yang MC
+            tidak tahu harus berbuat apa</item>
+
+        <item>Ini adalah tentang dunia dimana sihir adalah segalanya tapi jauh di dalam hutan ada seorang pria muda
+            yang menghabiskan waktunya untuk berlatih membesarkan otot dia tidak bisa menggunakan sihir tetapi dia menimati
+            kehidupannya dengan damai bersama ayahnya tetapi suatu hari hidupnya berada dalam bahaya akankah tubuh berototnya
+            mampu melindunginya dari para pengguna sihir yang keluar untuk menangkapnya akankah otot-otot yang terlatih dengan
+            kuat menghacurkan sihir dan beginilah kisah dunia fantasi sihir aneh ini di mulai</item>
+
+        <item>Calasses diberikan pada usia 10 tahun dan ada atau tidaknya skill sangat mempengaruhi kehidupan arel putra dari
+            swrod princes fara dan magic king leon telah dicap sebagai tanpa kelas tapi bahkan dengan tanpa job atau skill arel
+            yakin ia dapat bertahan melalui usaha kerasnya</item>
+
+        <item>Komi-san adalah gadis cantik dan mengagumkan yang tak seorang pun bisa melepaskan pandangan mereka darinya Hampir
+            seluruh sekolah menganggapnya sebegai kecantikan yang dingin diluar liga mereka tapi tadano shigeo tahu sebenarnya
+            dia benar-benar buruk dalam berkomonikasi dengan orang lain komi san yang ingin memperbaiki kebiasan buruknya ini
+            mecoba untuk mehilangkanya dengan batuan tadano</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/one_punch_man</item>
+        <item>@drawable/deamon_king_lost</item>
+        <item>@drawable/hitori_bochi_isekai</item>
+        <item>@drawable/tensei_kenja_no_isekai</item>
+        <item>@drawable/yozakura_family</item>
+        <item>@drawable/oredake_hairu_kakushi_dungeon</item>
+        <item>@drawable/shoukan_sarete</item>
+        <item>@drawable/magic_and_muscle</item>
+        <item>@drawable/mushoku_no_eiyuu</item>
+        <item>@drawable/komi_san</item>
+    </array>
+</resources>
